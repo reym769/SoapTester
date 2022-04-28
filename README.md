@@ -1,3 +1,3 @@
 # SoapTester
 
-# Simple console application to test api services connectivity
+Simple console application to test api services connectivity
